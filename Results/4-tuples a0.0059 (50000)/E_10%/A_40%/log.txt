@@ -1,0 +1,800 @@
+Rounds: 1000
+Ave score: 33667
+Max score: 76344
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.004 0.017 0.102 0.769 0.107 0 0 0 
+Moves per sec: 23223.7
+Win rate: 0.876
+
+Rounds: 2000
+Ave score: 34876
+Max score: 77136
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0.002 0.004 0.025 0.121 0.692 0.156 0 0 0 
+Moves per sec: 24919.7
+Win rate: 0.848
+
+Rounds: 3000
+Ave score: 36414
+Max score: 78928
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.008 0.015 0.108 0.673 0.195 0 0 0 
+Moves per sec: 26237.4
+Win rate: 0.868
+
+Rounds: 4000
+Ave score: 37402
+Max score: 85520
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.004 0.008 0.106 0.671 0.21 0 0 0 
+Moves per sec: 22602.1
+Win rate: 0.881
+
+Rounds: 5000
+Ave score: 37878
+Max score: 115884
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.005 0.014 0.087 0.677 0.214 0.002 0 0 
+Moves per sec: 23158
+Win rate: 0.893
+
+Rounds: 6000
+Ave score: 39460
+Max score: 113692
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0.001 0 0.009 0.025 0.093 0.59 0.281 0.001 0 0 
+Moves per sec: 26057.6
+Win rate: 0.872
+
+Rounds: 7000
+Ave score: 41311
+Max score: 118600
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.002 0.006 0.012 0.085 0.583 0.311 0.001 0 0 
+Moves per sec: 27403.8
+Win rate: 0.895
+
+Rounds: 8000
+Ave score: 42188
+Max score: 108072
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.003 0.011 0.089 0.559 0.335 0.003 0 0 
+Moves per sec: 27513.4
+Win rate: 0.897
+
+Rounds: 9000
+Ave score: 41740
+Max score: 87896
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0.001 0 0.005 0.023 0.103 0.538 0.33 0 0 0 
+Moves per sec: 23905.1
+Win rate: 0.868
+
+Rounds: 10000
+Ave score: 42801
+Max score: 124128
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.002 0.003 0.017 0.085 0.54 0.352 0.001 0 0 
+Moves per sec: 27188.4
+Win rate: 0.893
+
+Rounds: 11000
+Ave score: 43570
+Max score: 92924
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.001 0.009 0.103 0.508 0.378 0 0 0 
+Moves per sec: 27737.9
+Win rate: 0.886
+
+Rounds: 12000
+Ave score: 43082
+Max score: 91832
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0 0.004 0.016 0.104 0.494 0.382 0 0 0 
+Moves per sec: 27470.8
+Win rate: 0.876
+
+Rounds: 13000
+Ave score: 44659
+Max score: 120260
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.004 0.016 0.099 0.475 0.405 0.001 0 0 
+Moves per sec: 27489.8
+Win rate: 0.881
+
+Rounds: 14000
+Ave score: 45083
+Max score: 108936
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.002 0.016 0.073 0.504 0.403 0.001 0 0 
+Moves per sec: 24289.7
+Win rate: 0.908
+
+Rounds: 15000
+Ave score: 45381
+Max score: 110724
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.006 0.014 0.092 0.457 0.429 0.002 0 0 
+Moves per sec: 27585.2
+Win rate: 0.888
+
+Rounds: 16000
+Ave score: 44933
+Max score: 104464
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.003 0.005 0.015 0.095 0.458 0.423 0.001 0 0 
+Moves per sec: 26184.2
+Win rate: 0.882
+
+Rounds: 17000
+Ave score: 45440
+Max score: 124308
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.002 0.012 0.088 0.473 0.423 0.002 0 0 
+Moves per sec: 25012.2
+Win rate: 0.898
+
+Rounds: 18000
+Ave score: 45250
+Max score: 113648
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.004 0.014 0.093 0.46 0.426 0.002 0 0 
+Moves per sec: 24829.3
+Win rate: 0.888
+
+Rounds: 19000
+Ave score: 45323
+Max score: 116248
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.003 0.019 0.095 0.438 0.44 0.004 0 0 
+Moves per sec: 27337.4
+Win rate: 0.882
+
+Rounds: 20000
+Ave score: 45488
+Max score: 121492
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.004 0.015 0.095 0.438 0.446 0.002 0 0 
+Moves per sec: 25426.5
+Win rate: 0.886
+
+Rounds: 21000
+Ave score: 45145
+Max score: 118488
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.005 0.015 0.105 0.427 0.446 0.002 0 0 
+Moves per sec: 27691.6
+Win rate: 0.875
+
+Rounds: 22000
+Ave score: 46633
+Max score: 89736
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0 0.004 0.009 0.095 0.421 0.471 0 0 0 
+Moves per sec: 27835.7
+Win rate: 0.892
+
+Rounds: 23000
+Ave score: 47439
+Max score: 103884
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.007 0.01 0.083 0.416 0.483 0.001 0 0 
+Moves per sec: 26746.9
+Win rate: 0.9
+
+Rounds: 24000
+Ave score: 46287
+Max score: 111784
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.004 0.017 0.091 0.419 0.468 0.001 0 0 
+Moves per sec: 27266.6
+Win rate: 0.888
+
+Rounds: 25000
+Ave score: 45800
+Max score: 84500
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0 0.007 0.013 0.086 0.431 0.463 0 0 0 
+Moves per sec: 26866.8
+Win rate: 0.894
+
+Rounds: 26000
+Ave score: 46197
+Max score: 117640
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.002 0.014 0.086 0.437 0.46 0.001 0 0 
+Moves per sec: 27626.7
+Win rate: 0.898
+
+Rounds: 27000
+Ave score: 45678
+Max score: 107952
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.006 0.025 0.086 0.413 0.466 0.003 0 0 
+Moves per sec: 27147.8
+Win rate: 0.882
+
+Rounds: 28000
+Ave score: 46785
+Max score: 93840
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0 0.002 0.012 0.087 0.411 0.488 0 0 0 
+Moves per sec: 22839.9
+Win rate: 0.899
+
+Rounds: 29000
+Ave score: 46826
+Max score: 115052
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.002 0.004 0.009 0.101 0.395 0.488 0.001 0 0 
+Moves per sec: 25356.5
+Win rate: 0.884
+
+Rounds: 30000
+Ave score: 47354
+Max score: 104380
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.007 0.011 0.087 0.391 0.503 0.001 0 0 
+Moves per sec: 22113.3
+Win rate: 0.895
+
+Rounds: 31000
+Ave score: 48470
+Max score: 114716
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.006 0.008 0.054 0.414 0.513 0.004 0 0 
+Moves per sec: 25419.8
+Win rate: 0.931
+
+Rounds: 32000
+Ave score: 48049
+Max score: 98696
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.003 0.001 0.009 0.075 0.391 0.52 0.001 0 0 
+Moves per sec: 27050.5
+Win rate: 0.912
+
+Rounds: 33000
+Ave score: 47199
+Max score: 96452
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0 0.005 0.014 0.089 0.386 0.506 0 0 0 
+Moves per sec: 27475.6
+Win rate: 0.892
+
+Rounds: 34000
+Ave score: 47084
+Max score: 87772
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0 0.003 0.018 0.093 0.379 0.507 0 0 0 
+Moves per sec: 23974.7
+Win rate: 0.886
+
+Rounds: 35000
+Ave score: 47719
+Max score: 129044
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.004 0.009 0.076 0.386 0.521 0.004 0 0 
+Moves per sec: 23681.1
+Win rate: 0.911
+
+Rounds: 36000
+Ave score: 46841
+Max score: 114208
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.003 0.016 0.089 0.401 0.49 0.001 0 0 
+Moves per sec: 24092.6
+Win rate: 0.892
+
+Rounds: 37000
+Ave score: 47548
+Max score: 120336
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.004 0.017 0.085 0.371 0.52 0.003 0 0 
+Moves per sec: 24780.8
+Win rate: 0.894
+
+Rounds: 38000
+Ave score: 48296
+Max score: 110640
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.002 0.013 0.074 0.366 0.543 0.001 0 0 
+Moves per sec: 24947.1
+Win rate: 0.91
+
+Rounds: 39000
+Ave score: 46814
+Max score: 125884
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.002 0.02 0.097 0.38 0.496 0.005 0 0 
+Moves per sec: 23627.2
+Win rate: 0.881
+
+Rounds: 40000
+Ave score: 46603
+Max score: 114672
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.002 0.011 0.093 0.4 0.49 0.004 0 0 
+Moves per sec: 19719.5
+Win rate: 0.894
+
+Rounds: 41000
+Ave score: 48669
+Max score: 123884
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.002 0.01 0.073 0.374 0.538 0.003 0 0 
+Moves per sec: 24339.5
+Win rate: 0.915
+
+Rounds: 42000
+Ave score: 46392
+Max score: 100076
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.004 0.01 0.094 0.392 0.499 0 0 0 
+Moves per sec: 26669.1
+Win rate: 0.891
+
+Rounds: 43000
+Ave score: 47279
+Max score: 105820
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.002 0.013 0.085 0.369 0.53 0.001 0 0 
+Moves per sec: 25703.9
+Win rate: 0.9
+
+Rounds: 44000
+Ave score: 46560
+Max score: 101836
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.003 0.013 0.085 0.376 0.521 0.001 0 0 
+Moves per sec: 23193.3
+Win rate: 0.898
+
+Rounds: 45000
+Ave score: 46680
+Max score: 87616
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0 0.003 0.017 0.078 0.389 0.513 0 0 0 
+Moves per sec: 22830
+Win rate: 0.902
+
+Rounds: 46000
+Ave score: 46824
+Max score: 113004
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.006 0.017 0.069 0.375 0.53 0.002 0 0 
+Moves per sec: 22282.6
+Win rate: 0.907
+
+Rounds: 47000
+Ave score: 46849
+Max score: 108104
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.004 0.014 0.089 0.37 0.522 0.001 0 0 
+Moves per sec: 26115.1
+Win rate: 0.893
+
+Rounds: 48000
+Ave score: 46969
+Max score: 131988
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.005 0.016 0.071 0.388 0.515 0.004 0 0 
+Moves per sec: 14006.1
+Win rate: 0.907
+
+Rounds: 49000
+Ave score: 47437
+Max score: 112632
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.007 0.011 0.066 0.384 0.528 0.003 0 0 
+Moves per sec: 11004.3
+Win rate: 0.915
+
+Rounds: 50000
+Ave score: 47037
+Max score: 113860
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.003 0.016 0.083 0.375 0.52 0.003 0 0 
+Moves per sec: 12187.3
+Win rate: 0.898
+
+Rounds: 51000
+Ave score: 46164
+Max score: 120904
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.007 0.014 0.092 0.377 0.508 0.001 0 0 
+Moves per sec: 11976.2
+Win rate: 0.886
+
+Rounds: 52000
+Ave score: 46791
+Max score: 129400
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.002 0.019 0.083 0.379 0.515 0.002 0 0 
+Moves per sec: 12800.5
+Win rate: 0.896
+
+Rounds: 53000
+Ave score: 46389
+Max score: 121684
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.003 0.009 0.098 0.37 0.518 0.002 0 0 
+Moves per sec: 11730.3
+Win rate: 0.89
+
+Rounds: 54000
+Ave score: 47786
+Max score: 106584
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0 0.015 0.086 0.352 0.545 0.002 0 0 
+Moves per sec: 11585.3
+Win rate: 0.899
+
+Rounds: 55000
+Ave score: 47188
+Max score: 119920
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.003 0.011 0.095 0.341 0.547 0.003 0 0 
+Moves per sec: 11276.9
+Win rate: 0.891
+
+Rounds: 56000
+Ave score: 46287
+Max score: 128892
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.004 0.017 0.097 0.364 0.515 0.003 0 0 
+Moves per sec: 11837.4
+Win rate: 0.882
+
+Rounds: 57000
+Ave score: 46948
+Max score: 84816
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.003 0.019 0.076 0.37 0.531 0 0 0 
+Moves per sec: 11626.2
+Win rate: 0.901
+
+Rounds: 58000
+Ave score: 47636
+Max score: 148256
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.008 0.017 0.083 0.34 0.549 0.003 0 0 
+Moves per sec: 11757.1
+Win rate: 0.892
+
+Rounds: 59000
+Ave score: 46851
+Max score: 123988
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.004 0.01 0.087 0.369 0.527 0.003 0 0 
+Moves per sec: 11886.5
+Win rate: 0.899
+
+Rounds: 60000
+Ave score: 45685
+Max score: 117528
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.005 0.024 0.091 0.366 0.512 0.002 0 0 
+Moves per sec: 12434.1
+Win rate: 0.88
+
+Rounds: 61000
+Ave score: 45811
+Max score: 80792
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0 0.006 0.02 0.087 0.366 0.521 0 0 0 
+Moves per sec: 12025.5
+Win rate: 0.887
+
+Rounds: 62000
+Ave score: 45805
+Max score: 99056
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0.001 0 0.004 0.01 0.087 0.381 0.517 0 0 0 
+Moves per sec: 12454.7
+Win rate: 0.898
+
+Rounds: 63000
+Ave score: 46822
+Max score: 113752
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.002 0.003 0.018 0.079 0.369 0.526 0.003 0 0 
+Moves per sec: 12368.4
+Win rate: 0.898
+
+Rounds: 64000
+Ave score: 46533
+Max score: 106996
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.008 0.016 0.069 0.377 0.529 0.001 0 0 
+Moves per sec: 12564.6
+Win rate: 0.907
+
+Rounds: 65000
+Ave score: 46511
+Max score: 80272
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.006 0.012 0.072 0.388 0.521 0 0 0 
+Moves per sec: 13285.6
+Win rate: 0.909
+
+Rounds: 66000
+Ave score: 47410
+Max score: 123940
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.003 0.015 0.083 0.353 0.542 0.003 0 0 
+Moves per sec: 13242.5
+Win rate: 0.898
+
+Rounds: 67000
+Ave score: 45645
+Max score: 110944
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.005 0.026 0.092 0.359 0.517 0.001 0 0 
+Moves per sec: 12532.9
+Win rate: 0.877
+
+Rounds: 68000
+Ave score: 46502
+Max score: 118024
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.002 0.011 0.097 0.347 0.54 0.002 0 0 
+Moves per sec: 11141.4
+Win rate: 0.889
+
+Rounds: 69000
+Ave score: 47317
+Max score: 131728
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.002 0.012 0.081 0.36 0.54 0.004 0 0 
+Moves per sec: 10346.1
+Win rate: 0.904
+
+Rounds: 70000
+Ave score: 46408
+Max score: 114980
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.006 0.016 0.068 0.394 0.513 0.003 0 0 
+Moves per sec: 11773.2
+Win rate: 0.91
+
+Rounds: 71000
+Ave score: 45444
+Max score: 114580
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.006 0.017 0.099 0.361 0.516 0.001 0 0 
+Moves per sec: 11766.7
+Win rate: 0.878
+
+Rounds: 72000
+Ave score: 45826
+Max score: 92788
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.002 0.019 0.083 0.371 0.524 0 0 0 
+Moves per sec: 14604.5
+Win rate: 0.895
+
+Rounds: 73000
+Ave score: 47960
+Max score: 119284
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.004 0.013 0.081 0.342 0.555 0.004 0 0 
+Moves per sec: 13513.1
+Win rate: 0.901
+
+Rounds: 74000
+Ave score: 46691
+Max score: 100216
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.005 0.015 0.095 0.34 0.543 0.001 0 0 
+Moves per sec: 12217.8
+Win rate: 0.884
+
+Rounds: 75000
+Ave score: 45781
+Max score: 100352
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.002 0.006 0.015 0.085 0.367 0.524 0.001 0 0 
+Moves per sec: 12611.7
+Win rate: 0.892
+
+Rounds: 76000
+Ave score: 46968
+Max score: 101804
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.002 0.01 0.083 0.357 0.546 0.001 0 0 
+Moves per sec: 12473.2
+Win rate: 0.904
+
+Rounds: 77000
+Ave score: 46467
+Max score: 106524
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.003 0.013 0.086 0.371 0.525 0.002 0 0 
+Moves per sec: 12495
+Win rate: 0.898
+
+Rounds: 78000
+Ave score: 47289
+Max score: 113132
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.001 0.019 0.08 0.358 0.539 0.002 0 0 
+Moves per sec: 12592.9
+Win rate: 0.899
+
+Rounds: 79000
+Ave score: 47620
+Max score: 123792
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.004 0.013 0.079 0.359 0.544 0.001 0 0 
+Moves per sec: 12687.3
+Win rate: 0.904
+
+Rounds: 80000
+Ave score: 45009
+Max score: 107300
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.005 0.021 0.102 0.368 0.502 0.001 0 0 
+Moves per sec: 12718
+Win rate: 0.871
+
+Rounds: 81000
+Ave score: 45679
+Max score: 102352
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.008 0.014 0.085 0.379 0.512 0.001 0 0 
+Moves per sec: 11787.7
+Win rate: 0.892
+
+Rounds: 82000
+Ave score: 47662
+Max score: 123868
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.003 0.015 0.072 0.344 0.561 0.004 0 0 
+Moves per sec: 10896
+Win rate: 0.909
+
+Rounds: 83000
+Ave score: 46488
+Max score: 122200
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.005 0.021 0.085 0.336 0.551 0.002 0 0 
+Moves per sec: 11173.9
+Win rate: 0.889
+
+Rounds: 84000
+Ave score: 47553
+Max score: 128848
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.006 0.012 0.068 0.353 0.557 0.003 0 0 
+Moves per sec: 11251.9
+Win rate: 0.913
+
+Rounds: 85000
+Ave score: 46563
+Max score: 105576
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.002 0.007 0.017 0.094 0.336 0.542 0.002 0 0 
+Moves per sec: 11983.2
+Win rate: 0.88
+
+Rounds: 86000
+Ave score: 46988
+Max score: 112204
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.001 0.017 0.087 0.364 0.528 0.003 0 0 
+Moves per sec: 12317
+Win rate: 0.895
+
+Rounds: 87000
+Ave score: 46702
+Max score: 117900
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.002 0.015 0.085 0.367 0.527 0.004 0 0 
+Moves per sec: 12607.4
+Win rate: 0.898
+
+Rounds: 88000
+Ave score: 47741
+Max score: 123692
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.002 0.02 0.071 0.347 0.558 0.002 0 0 
+Moves per sec: 12012
+Win rate: 0.907
+
+Rounds: 89000
+Ave score: 47461
+Max score: 80604
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0.001 0 0.004 0.014 0.094 0.326 0.561 0 0 0 
+Moves per sec: 12686.5
+Win rate: 0.887
+
+Rounds: 90000
+Ave score: 48137
+Max score: 127952
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.006 0.011 0.083 0.324 0.574 0.002 0 0 
+Moves per sec: 18501
+Win rate: 0.9
+
+Rounds: 91000
+Ave score: 47538
+Max score: 113632
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.002 0.018 0.078 0.343 0.556 0.003 0 0 
+Moves per sec: 30061.2
+Win rate: 0.902
+
+Rounds: 92000
+Ave score: 47104
+Max score: 87312
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0 0.003 0.01 0.09 0.347 0.55 0 0 0 
+Moves per sec: 26496.5
+Win rate: 0.897
+
+Rounds: 93000
+Ave score: 47406
+Max score: 105556
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.002 0.018 0.078 0.344 0.556 0.001 0 0 
+Moves per sec: 21893
+Win rate: 0.901
+
+Rounds: 94000
+Ave score: 46315
+Max score: 118088
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.003 0.018 0.093 0.352 0.533 0.001 0 0 
+Moves per sec: 25668.8
+Win rate: 0.886
+
+Rounds: 95000
+Ave score: 47148
+Max score: 132096
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.003 0.002 0.01 0.079 0.351 0.553 0.002 0 0 
+Moves per sec: 26785.2
+Win rate: 0.906
+
+Rounds: 96000
+Ave score: 46802
+Max score: 81252
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0 0.004 0.012 0.072 0.367 0.545 0 0 0 
+Moves per sec: 25967.6
+Win rate: 0.912
+
+Rounds: 97000
+Ave score: 46677
+Max score: 109616
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.002 0.003 0.018 0.076 0.374 0.526 0.001 0 0 
+Moves per sec: 23797.2
+Win rate: 0.901
+
+Rounds: 98000
+Ave score: 46519
+Max score: 102096
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0.001 0.004 0.019 0.08 0.364 0.531 0.001 0 0 
+Moves per sec: 22996
+Win rate: 0.896
+
+Rounds: 99000
+Ave score: 44521
+Max score: 82520
+Max tile: 4096
+% Max tiles: 0 0 0 0 0 0 0 0 0.008 0.022 0.09 0.389 0.491 0 0 0 
+Moves per sec: 23526.9
+Win rate: 0.88
+
+Rounds: 100000
+Ave score: 46035
+Max score: 97888
+Max tile: 8192
+% Max tiles: 0 0 0 0 0 0 0 0 0.002 0.02 0.086 0.361 0.53 0.001 0 0 
+Moves per sec: 25036.2
+Win rate: 0.892
+

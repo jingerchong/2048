@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\jinge\Documents\First Year\NCTU Internship\2048\2048\tuple2.h(22): warning C4715: 'extractSixTuple': not all control paths return a value
+C:\Users\jinge\Documents\First Year\NCTU Internship\2048\2048\tuple2.h(35): warning C4715: 'extractFourTuple': not all control paths return a value
+  2048.vcxproj -> C:\Users\jinge\Documents\First Year\NCTU Internship\2048\Debug\2048.exe
